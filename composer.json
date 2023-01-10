@@ -1,0 +1,14 @@
+{
+    "name": "abdulsalamemesh/what-to-do-api-package",
+    "type": "composer-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdulsalam Emesh",
+            "email": "abdulsalam.emesh.work@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
