@@ -1,1 +1,1 @@
-# What to do API clinet
+# What to do API client
