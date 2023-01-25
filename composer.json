@@ -1,5 +1,5 @@
 {
-    "name": "abdulsalamemesh/what-to-do-api-package",
+    "name": "abdulsalamemesh/what-to-do-api-client",
     "description": "A client for what-to-do-api.com",
     "type": "library",
     "license": "MIT",
