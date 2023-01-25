@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class WhatToDo
 {
-    private string $base_url = "http://what-to-do-api.test/api";
+    private string $base_url = "https://what-to-do-api.com/api";
     private string $version;
     private array $queryParameters = [];
 
